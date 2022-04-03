@@ -1,4 +1,4 @@
-package studying2
+package studying3
 
 class MyClass1 {
     fun fun1() {
